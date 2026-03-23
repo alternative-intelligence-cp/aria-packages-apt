@@ -1,0 +1,17 @@
+# Generated repo data
+dists/
+pool/
+db/
+
+# GPG private keys (public keyring is tracked)
+*.sec
+*.key
+secring.*
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store

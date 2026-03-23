@@ -1,0 +1,7 @@
+Origin: Aria
+Label: Aria Package Repository
+Codename: noble
+Architectures: amd64
+Components: main
+Description: Aria programming language packages for Ubuntu 24.04 / Linux Mint 22.x
+SignWith: default
