@@ -4,7 +4,7 @@
 set -e
 
 ARIA_DIR="${1:?Usage: build-compiler-deb.sh <aria-repo-dir>}"
-VERSION="${2:-0.2.2}"
+VERSION="${2:-0.2.15}"
 RELEASE="${3:-1}"
 
 echo "Building aria ${VERSION}-${RELEASE} .deb..."
