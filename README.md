@@ -2,6 +2,11 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
+> 🚧 **Rebrand in progress:** Aria is becoming **Nitpick**. This APT repository
+> infrastructure still uses Aria package names while the migration is underway.
+> Repository URLs, keyrings, and package names need compatibility planning before
+> any breaking rename.
+
 APT repository infrastructure for the [Aria programming language](https://github.com/alternative-intelligence-cp/aria).
 
 ## Overview
